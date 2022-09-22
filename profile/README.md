@@ -12,6 +12,7 @@ Great news! If I managed to convince you, I'm very happy! I let you look at the 
 You want to know how we work? Explore the entire GitHub profile
 
 ### Love from France ❤️
+![](https://komarev.com/ghpvc/?username=CodingFactory&style=flat-square?color=red)
 ---
 
 #### Are you still a minor? 🔞
